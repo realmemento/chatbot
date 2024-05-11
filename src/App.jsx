@@ -34,7 +34,7 @@ function App() {
 
   return (
     <>
-    <div className="h-screen bg-zinc-950  ">
+    <div className="h-screen bg-zinc-950">
       <div className="bg-zinc-950 max-h-max p-3">
       <h1 className="text-center text-white text-4xl ">CHATBOT-MEMENTO</h1> <br/>
 
